@@ -3,7 +3,7 @@ name = "SigmaOS-tools-tableau"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-tableau component"
+description = "tools tableau component"
 upstream = []
 
 [contract]

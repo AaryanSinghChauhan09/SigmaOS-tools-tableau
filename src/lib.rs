@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// Tableau workbook datasource and dashboard model for SigmaOS BI integration.
 use std::collections::HashMap;
 
